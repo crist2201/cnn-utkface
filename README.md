@@ -25,8 +25,8 @@ cnn-utkface
 │  
 ├── data
 │   ├── train_val
-│   ├── test
-|
+│   ├── test_val
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
