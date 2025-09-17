@@ -7,7 +7,10 @@ The objective of this project is to train a Convolutional Neural Netowrk (CNN) m
 In order to follow a step by step process with the analysis of the results go to my blog. 
 
 ## :rocket: Code Execution
- Go to Google Colab and run all cells.
+| Environment  | URL |
+| ------------- | ------------- |
+| Google Colab  |  [Link](https://colab.research.google.com/drive/1vgaCN0RBkPp5qTK1S7NPWhATAdEr7YbB?usp=sharing) |
+
 
 ## :wrench: Technologies
 - TensorFlow - Keras
