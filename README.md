@@ -50,7 +50,7 @@ There are two different ways to execute the code.
 5. Run all cells.
 
 ## :bulb: Blog
-In order to follow a step by step process with the analysis of the results go to my blog. 
+In order to follow a step by step process with the analysis of the results go to my blog [Train a CNN model from scratch using Keras](https://crist2201.github.io/projects/cnn_utkface/)
 
 ## :wrench: Technologies
 - TensorFlow - Keras
