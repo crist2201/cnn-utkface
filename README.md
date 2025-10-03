@@ -50,7 +50,7 @@ There are two different ways to execute the code.
 5. Run all cells.
 
 ## :bulb: Blog
-In order to follow a step by step process with the analysis of the results go to: [Age Estimation and Gender Classification](https://cst-portfolio.onrender.com/project/utkface)
+In order to follow a step by step process with the analysis of the results go to: [Age Estimation and Gender Classification](https://crist2201.github.io/project_utkface.html)
 
 ## :wrench: Technologies
 - TensorFlow - Keras
